@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! My name is Johnny and I am a new software developer!
-I am currently getting ready for Tech Elevator  and excited for the journey ahead.
-I am currently learning JavaScript and have enjoyed getting better and better everyday, a look forward to keep learning more!
+Hi! My name is Johnny and I am an aspiring software engineer!
+I am recent Tech Elevator grad and currently seeking a role for my first development position.
+I am proficient in JavaScript, Vue.js, C#, ASP.NET, MS SQL and am currently learning React and React Native.
 Email: Johnnyshultz@gmail.com
-I like to play Hockey as well as guitar in my free time, and i enjoy almost anything involving the outdoors!
+I like to play Hockey as well as guitar in my free time, and i enjoy almost anything involving the outdoors! Thanks for checking out my profile!
